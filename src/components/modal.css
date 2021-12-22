@@ -482,7 +482,7 @@
 }
 
 .callOut {
-  display: block;
+  display: hidden;
   padding: var(--basePadding);
   font-size: 14px;
   font-weight: 500;
